@@ -7,9 +7,10 @@ body {
 }
 
 nav {
-  background-color: #0b0e11 !important;
+  background-color: #ffffff;
   padding: 15px 0 !important;
   border-bottom: 1px solid #fff !important;
+  box-shadow: 2px 2px 8px grey;
 }
 
 a {
@@ -22,20 +23,20 @@ a {
 
 .fa-eye {
   position: absolute;
-  top: 48%;
+  top: 38%;
   right: 17%;
 }
 
 .warning-btn {
   position: absolute;
-  top: -8%;
-  left: 7%;
+  top: -30%;
+  left: 40%;
   font-weight: bold;
 }
 
 #form {
   background: #fff;
-  padding: 30px 30px;
+  padding: 30px 30px 10px 30px;
   border: 1px solid #cccccc;
 }
 
